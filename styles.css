@@ -1,0 +1,31 @@
+body{
+	background: #1B2631;
+	color: #00FF13;
+}
+ a:hover{ 
+ 		color: #1B2631;
+ 		background: #00FF13;
+}
+a{ 
+	font-family: hightower;
+}
+
+a{  color: #00FF13;
+ 
+}
+
+
+h1{ 
+	font-family: hightower
+ }
+
+ .indent { 
+	margin-left: 85px 
+}
+ .indent2 { 
+	margin-left: 65px 
+}
+
+h3{
+	 font-size: 18pt;
+}
